@@ -1,0 +1,90 @@
+body {
+  margin: 0 10%;
+}
+main {
+  border: 2px solid blueviolet;
+}
+.subclass {
+  border: 1px solid darkcyan;
+  padding: 10px;
+  margin: 10px;
+}
+.color1 {
+  background-color: #ffb736;
+  width: 300px;
+  height: 80px;
+  text-align: center;
+  display: inline-block;
+}
+.color2 {
+  background-color: #da22e6;
+  width: 300px;
+  height: 80px;
+  text-align: center;
+  display: inline-block;
+}
+.color3 {
+  background-color: #1be0fa;
+  width: 300px;
+  height: 80px;
+  text-align: center;
+  display: inline-block;
+}
+.color4 {
+  background-color: #e0e30e;
+  width: 300px;
+  height: 80px;
+  text-align: center;
+  display: inline-block;
+}
+.creepy {
+  font-family: 'Creepster', cursive;
+  width: 320px;
+  height: 80px;
+  display: inline-block;
+}
+.rubik {
+  font-family: 'Rubik', cursive;
+  width: 320px;
+  height: 80px;
+  display: inline-block;
+}
+.rbold {
+  font-family: 'Rubik', cursive;
+  font-weight: 800;
+  font-weight: bold;
+}
+.ritalic {
+  font-family: 'Rubik', cursive;
+  font-style: italic;
+}
+.work {
+  font-family: 'Work Sans', cursive;
+  width: 320px;
+  height: 80px;
+  display: inline-block;
+}
+.wbold {
+  font-family: 'Work Sans', cursive;
+  font-weight: 800;
+  font-weight: bold;
+}
+.witalic {
+  font-family: 'Work Sans', cursive;
+  font-style: italic;
+}
+h1 {
+  font-weight: 700 (bold);
+  font-size: 26px;
+  font-family: 'Creepster';
+}
+h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Rubik';
+}
+p {
+  font-weight: 400;
+  font-size: 14;
+  font-family: 'work sans';
+}
